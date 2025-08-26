@@ -1,1 +1,79 @@
 # LATOOL
+第一次先搭建环境挂VPN
+在搭建文件里面
+cd LATOOL
+chmod +x script/A
+chmod +x setup
+./setup
+下一次输入
+cd LATOOL
+chmod +x script/A
+./蓝桉
+要解包的和平pak在/storage/emulated/0/Download/蓝桉/Paks
+要解包打包pubgpak/storage/emulated/0/Download/蓝桉/pubgpak
+
+环境
+pkg update
+pkg upgrade 
+termux-setup-storage
+pkg install git
+pkg install python
+pip install pyyaml
+pip install tqdm
+pkg install qemu-user-i386 -y
+pkg install ruby
+gem install lolcat
+pkg install figlet
+pip install pyyaml
+pkg update && pkg upgrade
+
+pip install pyyaml
+
+pkg install python-pip
+pkg install python-pip
+pip install tqdm
+
+
+
+权限
+chmod +x 蓝桉
+chmod +x script/L
+chmod +x script/A
+chmod +x script/pubg功能
+chmod +x script/和平精英功能
+chmod +x script/自动美化
+chmod +x script/quickbms
+chmod +x script/1
+chmod +x script/LA3
+chmod +x script/map.bms
+chmod +x script/非
+chmod +x script/块
+chmod +x script/解包.bms
+chmod +x script/打包.bms
+chmod +x script/120
+chmod +x script/unlock
+chmod +x script/LA6.py
+chmod +x script/LA7.py
+chmod +x script/LA8.py
+chmod +x script/LA9.py
+chmod +x script/LA2.py
+chmod +x script/LA.py
+chmod +x script/LA4.py
+chmod +x script/LA5.py
+chmod +x script/LA10.py
+chmod +x script/LA11.py
+chmod +x script/LA12.py
+chmod +x script/LA13.py
+chmod +x script/LA1
+chmod +x script/LA2
+chmod +x script/LA3
+chmod +x script/LA4
+chmod +x script/LA5
+chmod +x script/LA6
+chmod +x script/LA7
+chmod +x script/LA8
+chmod +x script/LA9
+chmod +x script/LA10
+chmod +x script/做广角模板
+chmod +x 授权777.sh
+bash 授权777.sh
